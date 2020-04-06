@@ -1,5 +1,5 @@
 {
-  "name": "bs-moment",
+  "name": "@tailrecursive/bs-moment",
   "version": "0.4.4",
   "description": "BuckleScript bindings for Moment.js",
   "main": "lib/js/src/MomentRe.js",

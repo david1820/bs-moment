@@ -1,6 +1,8 @@
 {
-  "name": "bs-moment",
-  "bsc-flags": ["-bs-super-errors"],
+  "name": "@tailrecursive/bs-moment",
+  "bsc-flags": [
+    "-bs-super-errors"
+  ],
   "sources": [
     {
       "dir": "src"
@@ -10,6 +12,8 @@
       "type": "dev"
     }
   ],
-  "bs-dev-dependencies": ["@glennsl/bs-jest"],
+  "bs-dev-dependencies": [
+    "@glennsl/bs-jest"
+  ],
   "refmt": 3
 }
